@@ -2,7 +2,7 @@
 
 ## A Python Developer | django backend Engineer
 
-I'm a Python developer specializing in building scalable, production-ready solutions. With expertise in backend web development with django framework, I craft robust backends that are secure fast. My passion lies in developing innovative software solutions while continuously expanding my technical expertise.
+I'm a Python developer specializing in building scalable, production-ready solutions. With expertise in backend web development with django framework, I craft robust backends that are secure and fast. My passion lies in developing innovative software solutions while continuously expanding my technical expertise.
 
 ##  About Me
 
